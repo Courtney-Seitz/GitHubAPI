@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.error-message {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
